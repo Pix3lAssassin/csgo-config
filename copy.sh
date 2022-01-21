@@ -1,0 +1,2 @@
+cp ~/projects/csgo-config/*.cfg /mnt/d/SteamLibrary/steamapps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/.
+cp -r ~/projects/csgo-config/custom /mnt/d/SteamLibrary/steamapps/common/Counter-Strike\ Global\ Offensive/csgo/cfg/.
